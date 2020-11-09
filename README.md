@@ -18,7 +18,7 @@
 ## Boceto infografía ✏️
 ![Mockup infografía digital](https://raw.githubusercontent.com/Personas-de-sacrificio/clas-2/main/pa%CC%81gina-total.png)
 
-## Recursos para la infografía
+## Recursos para la infografía 💡
 
 #### Contexto: Cómo llegaron las termoeléctricas 
 * [Línea de tiempo sobre la llegada de las termoelécticas](https://drive.google.com/file/d/19cshT6W-iCOwNVd6HaK9m6CzFRKyUWKd/view?usp=sharing) 
