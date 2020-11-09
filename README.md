@@ -1,4 +1,4 @@
-# Trabajo infografía: *Personas de sacrificio* - Avance 09/11
+# Trabajo infografía: *Personas de sacrificio* - Avance 09/11 🏙️🏙️
 
 ## Estructura
 
@@ -15,7 +15,7 @@
 - [ ] Programa de descontaminación
 - [ ] Nueva Constitución/ Tratados internacionales
 
-##Boceto infografía 
+## Boceto infografía ✏️
 ![Mockup infografía digital](https://raw.githubusercontent.com/Personas-de-sacrificio/clas-2/main/pa%CC%81gina-total.png)
 
-##Recursos para la infografía
+## Recursos para la infografía
