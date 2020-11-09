@@ -2,7 +2,7 @@
 
 ## Estructura
 
-- [] **Presentación problemas zonas de sacrificio Quintero-Puchuncaví**
+- [ ] **Presentación problemas zonas de sacrificio Quintero-Puchuncaví**
 - []Mapa de la zona con las industrias
 []Línea de tiempo hitos zonas de sacrificio
 []**Efectos medioambientales**
