@@ -1,1 +1,1 @@
-# clas-2
+# Personas de sacrificio
